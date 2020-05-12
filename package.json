@@ -1,0 +1,27 @@
+{
+  "name": "com.hoangtran.firebaseliteplugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.hoangtran.firebaseliteplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=1.8.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC"
+}
